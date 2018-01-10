@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2740samp1/2740samp1.iml" filepath="$PROJECT_DIR$/2740samp1/2740samp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2740sampCh02InvoiceApp/2740sampCh02InvoiceApp.iml" filepath="$PROJECT_DIR$/2740sampCh02InvoiceApp/2740sampCh02InvoiceApp.iml" />
     </modules>
   </component>
 </project>
